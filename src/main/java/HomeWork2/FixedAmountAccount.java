@@ -15,7 +15,6 @@ public class FixedAmountAccount {
 
     }
 
-
     public double getAmount() {
         return balance;
     }
